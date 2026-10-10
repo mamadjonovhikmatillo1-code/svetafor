@@ -3,7 +3,7 @@ let i = 0;
 
 function svetofor() {
     for (let j = 0; j < 3; j++) {
-        box[j].style.background = "gray";
+        box[j].style.background = "black";
     }
 
     if (i == 0) {
